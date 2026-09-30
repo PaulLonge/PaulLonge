@@ -9,7 +9,7 @@ them, all built from open data.
 - 🎯 **Shade**: three charts a day, each with one piece blank. Slide until its colour looks right.
 - 🕵️ **Imposter**: a world map where one country is lying about its number.
 - 🎩 **[Monopoly, priced for real](https://axisless.com/monopoly/)**: the London and Atlantic City boards against
-  real house prices, back to a poverty map from 1898.
+  real house prices, back to a poverty map from 1898. [Code and data](https://github.com/PaulLonge/monopoly-priced).
 - 🚇 **[The Tube as a honeycomb](https://github.com/PaulLonge/honeycomb-tube)**: one hexagon per station. The code
   is open, MIT licensed.
 
