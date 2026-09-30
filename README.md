@@ -13,8 +13,7 @@ them, all built from open data.
 - 🚇 **[The Tube as a honeycomb](https://github.com/PaulLonge/honeycomb-tube)**: one hexagon per station. The code
   is open, MIT licensed.
 
-Other things I've built along the way: a party game played on everyone's phones
-([parlour](https://github.com/PaulLonge/parlour)), a gym session generator, a fantasy character generator, a board
+Other things I've built along the way: a party game played on everyone's phones, a gym session generator, a fantasy character generator, a board
 game simulator and a writing tool for long-form fiction.
 
 📫 [LinkedIn](https://www.linkedin.com/in/paul-longe) · 🌐 [axisless.com](https://axisless.com)
